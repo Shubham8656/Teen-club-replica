@@ -1,0 +1,49 @@
+.footer{
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
+.newsletter-cont{
+    width: 60%;
+    margin: auto;
+    padding: 1%;
+    display: flex;
+}
+.newsletter{
+    text-align: left;
+}
+.newsletter>p{
+    text-align: left;
+    font-size: 90%;
+}
+.newsletter>h3{
+    margin-bottom: 8%;
+    margin-top: 0%;
+}
+.input{
+    margin-top: 6%;
+    width: 100%;
+}
+input{
+    height: 50%;
+    width: 70%;
+    color: black;
+    margin-left: 3%;
+}
+#subscribe{
+    height: 60%;
+    background-color: yellow;
+    border: 0px;
+}
+#error{
+    color: rgb(255, 110, 110);
+    width: 20%;
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 21%;
+    text-align: left;
+}
+#privacy{
+    margin-left: 20%;
+    text-align: left;
+    font-size: 80%;
+}
